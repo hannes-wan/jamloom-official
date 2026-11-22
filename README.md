@@ -65,6 +65,20 @@ Loop the section you are working on, then take the arrangement into a DAW as MID
 - Use MIDI to edit notes or replace an instrument in your DAW.
 - Export WAV for a backing track you can play from an audio player or share for a lesson.
 
+## Try a first workflow
+
+### Build a four-bar chord chart
+
+Make the first section four bars long and enter Am7, Dm7, G7, and Cmaj7 in that order. Play from the start and listen for the bass and harmony to change together. Check the chord cell and measure grouping when a change lands early. Add a second section once the first four bars resolve where you expect. Play the handoff from the last chord of the first section to the first downbeat of the second.
+
+### Set up guitar backing tracks for a practice tempo
+
+Generate a backing band from the chart and listen through a full pass. Lower the tempo until you can play steadily through the difficult change. Lower the generated guitar when you want space for your own rhythm part, or lower the generated bass to practice locking in with the drummer. Try a second style on the same progression and keep the rhythm and accompaniment that give you the clearest timing cues.
+
+### Loop a transition and choose the export
+
+Loop the bars around a chord change or section handoff. Leave room to hear the lead-in and the following beat, then turn the loop off and rehearse the entire chart at the same tempo. Export WAV for a ready-to-play practice track. For further arrangement in a DAW, export MIDI, assign instruments to the tracks, and listen through a section to confirm the notes and drum mapping. Name different exports by tempo or style so you can find the right take later.
+
 ## Community Edition is genuinely useful
 
 
