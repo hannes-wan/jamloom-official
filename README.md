@@ -1,69 +1,75 @@
 # JamLoom
 
 [![Community Edition: Free](https://img.shields.io/badge/Community_Edition-Free-16a34a?style=for-the-badge)](https://hannes-software.com/jamloom/download/)
-[![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/jamloom/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/jamloom/)
+[![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/jamloom/download/) [![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/jamloom/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/jamloom/)
 
 > Turn a chord progression into a band you can practice with.
 
 Free Community Edition: editable chord charts, bass and drum accompaniment, guitar backing tracks, practice loops, and MIDI or WAV export.
 
-Write a progression, arrange song sections, and hear bass, drums, and guitar follow your chart. Set the tempo, loop a passage, and mix the band as you play.
+Build an editable song from a progression. Hear bass, drums and guitar follow the changes, then loop a section or adjust the mix to make space for your instrument.
 
 **JamLoom Community Edition is free to download and use.** Use the core workflow locally and decide from real output.
 
 [Download Community Edition](https://hannes-software.com/jamloom/download/) · [Product guide](https://hannes-software.com/jamloom/) · [Help](https://hannes-software.com/jamloom/help/) · [Report a bug](https://github.com/hannes-wan/jamloom-official/issues/new?template=bug_report.yml)
 
-## Download JamLoom 0.1.0
+## Download JamLoom 0.1.1
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [jamloom-0.1.0-linux-x64.AppImage](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.0/jamloom-0.1.0-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [jamloom-0.1.0-linux-x64.deb](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.0/jamloom-0.1.0-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [jamloom-0.1.0-linux-x64.rpm](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.0/jamloom-0.1.0-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Linux x64 (APPIMAGE) | [jamloom-0.1.1-linux-x64.AppImage](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.1/jamloom-0.1.1-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [jamloom-0.1.1-linux-x64.deb](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.1/jamloom-0.1.1-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [jamloom-0.1.1-linux-x64.rpm](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.1/jamloom-0.1.1-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [jamloom-0.1.1-windows-x64-setup.exe](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.1/jamloom-0.1.1-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/jamloom/download/).
 
 ## System requirements
 
+- **Windows:** Windows 10 or Windows 11 on x64.
 - **Linux:** a mainstream x64 distribution with glibc 2.35 or newer, such as Ubuntu 22.04+, Debian 12+, Fedora, or openSUSE (AppImage, DEB, and RPM packages).
 - **Disk space:** a few hundred megabytes free for the application and its bundled resources.
 
 ## Why JamLoom exists
 
-JamLoom is a local desktop accompaniment tool for musicians, teachers, and songwriters practicing from chord progressions.
+JamLoom is a local desktop backing track creator and chord chart editor for practice, arranging and lessons on Windows x64 and Linux x64.
 
 > **Edition boundary:** The technical sections below describe the complete product surface and can include optional licensed workflows. The exact free Community Edition scope is listed separately below.
 
-### Practice the progression with an editable band arrangement.
+### Build accompaniment for the next rehearsal
 
-Build a chord chart, generate accompaniment and follow the same arrangement from practice through export.
+Use a chart as the shared reference for what the band plays, how you practice and what you send to other musicians.
 
-### Edit a chord chart
+### Start from a transposable progression
 
-Enter chord symbols, lay out verse and chorus sections, and revise the arrangement without taking the passage out of your practice workflow.
+Browse 648 practice sessions across 54 band recipes. Pick a tonic and load the editable chart.
 
-### Generate a backing band
+### Edit harmony and song form
 
-Choose a style and generate bass, drums, and guitar parts for the progression. Adjust the tempo and the individual band channels.
+Change chord symbols and slash bass notes by bar. Build sections, choose what plays, and open Notation for barlines, repeats and transposition.
 
-### Practice a passage and export
+### Make room for your instrument
 
-Loop the section you are working on, then take the arrangement into a DAW as MIDI or render it as a WAV backing track.
+Control the bass, drums and guitar levels separately. Slow the rehearsal and loop a section without typing the chart again.
 
-### Build from the progression
+### Take the arrangement with you
 
-- Enter chord symbols bar by bar so the accompaniment follows your harmony.
-- Keep separate sections for the verse, chorus or a short exercise you want to repeat.
+Use a WAV mix for playback, MIDI for editable events in a DAW, or a PDF chart for rehearsals and lessons.
 
-### Set up the band for the exercise
+### Practice a transition at two speeds
 
-- Generate bass, drums and guitar from a style and chart.
-- Make a passage easier to follow by slowing it down and adjusting the individual part levels.
+- Keep the first BPM low enough to sing or play through the section from start to end.
+- Keep the same form and style when you raise the tempo so you can hear whether the transition has improved.
 
-### Choose the export that fits
+### Make the band support your role
 
-- Use MIDI to edit notes or replace an instrument in your DAW.
-- Export WAV for a backing track you can play from an audio player or share for a lesson.
+- For rhythm guitar, lower the supplied guitar and use the bass and drum attacks to place changes on the beat.
+- For bass practice, turn down the supplied bass and listen to the drum groove against your own notes.
+
+### Prepare a lesson or a DAW session
+
+- Give students an audio mix and the same PDF chord chart so the harmony and tempo agree.
+- Import the MIDI when you want to change the arrangement or use different instruments downstream.
 
 ## Try a first workflow
 
@@ -84,43 +90,79 @@ Loop the bars around a chord change or section handoff. Leave room to hear the l
 
 Expanded workflows require an effective license. See the official product page for current licensing availability.
 
+## See the real desktop workflow
+
+### An eight-bar chart in playback
+
+![An eight-bar chart in playback — JamLoom](https://hannes-software.com/assets/jamloom/screenshots/two-section-backing-chart-01.webp)
+
+Two sections share the Modern Pop recipe. The playhead follows the chart, and the bass, drum and guitar levels sit beside the transport.
+
+### Practice library with transposition
+
+![Practice library with transposition — JamLoom](https://hannes-software.com/assets/jamloom/screenshots/practice-library-01.webp)
+
+Choose a starting key and browse a progression by style, harmony or name before loading the editable session.
+
+### Edit notation and song form
+
+![Edit notation and song form — JamLoom](https://hannes-software.com/assets/jamloom/screenshots/chord-symbol-notation-01.webp)
+
+The notation editor shows both sections and the changed G/B chord, along with barline, repeat and transpose controls.
+
+### Guitar tone for one section
+
+![Guitar tone for one section — JamLoom](https://hannes-software.com/assets/jamloom/screenshots/section-guitar-effects-01.webp)
+
+The Effects panel shows the section selector, guitar preset and individual effect controls during playback.
+
 ## Local-first by design
 
 JamLoom is a desktop workflow. Your working files stay on the machine unless you deliberately export or share them. The product page documents the exact capability boundary so the focused workflow can be evaluated on real evidence.
 
 ## Documentation
 
+- [Loop a guitar practice section with bass and drums](https://hannes-software.com/jamloom/help/loop-a-section-and-mix-the-band/)
 - [Generate and Practice With Your First Backing Track](https://hannes-software.com/jamloom/help/make-a-practice-backing-track/)
+- [Export a backing arrangement as MIDI, WAV or a chord chart PDF](https://hannes-software.com/jamloom/help/share-a-backing-arrangement/)
+- [Transpose a chord chart for practice in another key](https://hannes-software.com/jamloom/help/transpose-a-chord-chart/)
 
 ## Frequently asked questions
 
 > **Community scope:** Community Edition includes chord charts, band accompaniment, playback, and MIDI or WAV export. Portable project save and reopen require a licensed edition.
 
 <details>
-<summary><strong>Can I make a backing track from a chord progression?</strong></summary>
+<summary><strong>Can JamLoom make a backing track from my chords?</strong></summary>
 
-Yes. Enter the progression in the chord chart, arrange sections, choose a style, and generate accompaniment for the song.
-
-</details>
-
-<details>
-<summary><strong>Can I slow down or loop a section for practice?</strong></summary>
-
-Yes. Change tempo and select the passage you want to repeat. The band follows the chart while you play.
+Yes. Enter chord symbols in the chart, arrange the sections, and choose a band style. The bass, drums and guitar follow the chart.
 
 </details>
 
 <details>
-<summary><strong>Can I use a JamLoom arrangement in my DAW?</strong></summary>
+<summary><strong>Can I use the accompaniment without an internet connection?</strong></summary>
 
-Yes. Export MIDI for editable notes or export WAV for an audio backing track.
+Chart editing, the bundled practice library, generation and playback run locally. The product does not upload your chart to produce the backing audio.
 
 </details>
 
 <details>
-<summary><strong>Which Linux installer should I choose?</strong></summary>
+<summary><strong>Can I loop a section and mute the backing guitar?</strong></summary>
 
-Use the DEB package on a compatible Debian-based system, RPM on a compatible RPM-based system, or the AppImage for a portable x64 build. The Downloads page lists the current files.
+Select a section, enable Loop and lower the guitar fader. Bass and drums have separate faders, so you can leave those parts audible while you play.
+
+</details>
+
+<details>
+<summary><strong>What can I export for a DAW or rehearsal?</strong></summary>
+
+Use Type-1 MIDI to edit notes, WAV to share the rendered backing, or PDF to print the chord chart. You can download paired MIDI and PDF samples from this page.
+
+</details>
+
+<details>
+<summary><strong>Which systems have a public JamLoom installer?</strong></summary>
+
+Download the unsigned Windows x64 setup (.exe) on Windows 10 or later. For Linux x64, use the AppImage, DEB or RPM. The download page lists SHA-256 for each file.
 
 </details>
 
@@ -134,4 +176,4 @@ Use the DEB package on a compatible Debian-based system, RPM on a compatible RPM
 
 ## Official repository
 
-This is the official public distribution and community repository for JamLoom: verified release links, documentation routes, issue intake, and security guidance. Product development happens in a private workspace; public issues here are the right place to report reproducible product behavior and request focused improvements.
+This is the official public distribution and community repository for JamLoom: verified release links, current screenshots, documentation routes, issue intake, and security guidance. Product development happens in a private workspace; public issues here are the right place to report reproducible product behavior and request focused improvements.
