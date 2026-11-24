@@ -1,7 +1,8 @@
 **JamLoom Community Edition is free to download and use.**
 
-JamLoom 0.1.1 brings the backing track creator and chord chart editor to Windows x64 alongside Linux x64.
+JamLoom adds Microsoft Store purchasing for saving and reopening backing-track projects.
 
-- The unsigned Windows x64 installer includes bass, drums and guitar sounds and the library of 648 practice sessions.
-- Loop a chord progression, adjust practice tempo and accompaniment levels, and export your arrangement as MIDI or WAV on either platform.
-- Choose AppImage, DEB or RPM for Linux x64.
+- Use License in the Microsoft Store edition to see the local price and purchase the permanent project-save unlock.
+- Reopen a saved chord chart to edit song sections, change the practice tempo, or export the backing track as MIDI or WAV.
+- Restore the unlock with the same Microsoft Store account after reinstalling JamLoom.
+- Updated the JamLoom app icon on Windows.

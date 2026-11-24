@@ -13,14 +13,14 @@ Build an editable song from a progression. Hear bass, drums and guitar follow th
 
 [Download Community Edition](https://hannes-software.com/jamloom/download/) · [Product guide](https://hannes-software.com/jamloom/) · [Help](https://hannes-software.com/jamloom/help/) · [Report a bug](https://github.com/hannes-wan/jamloom-official/issues/new?template=bug_report.yml)
 
-## Download JamLoom 0.1.1
+## Download JamLoom 0.1.2
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [jamloom-0.1.1-linux-x64.AppImage](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.1/jamloom-0.1.1-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [jamloom-0.1.1-linux-x64.deb](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.1/jamloom-0.1.1-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [jamloom-0.1.1-linux-x64.rpm](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.1/jamloom-0.1.1-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [jamloom-0.1.1-windows-x64-setup.exe](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.1/jamloom-0.1.1-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [jamloom-0.1.2-linux-x64.AppImage](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.2/jamloom-0.1.2-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [jamloom-0.1.2-linux-x64.deb](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.2/jamloom-0.1.2-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [jamloom-0.1.2-linux-x64.rpm](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.2/jamloom-0.1.2-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [jamloom-0.1.2-windows-x64-setup.exe](https://github.com/hannes-wan/jamloom-official/releases/download/v0.1.2/jamloom-0.1.2-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/jamloom/download/).
 
@@ -88,7 +88,7 @@ Loop the bars around a chord change or section handoff. Leave room to hear the l
 ## Community Edition is genuinely useful
 
 
-Expanded workflows require an effective license. See the official product page for current licensing availability.
+Optional licensed workflows are available for people who need the expanded feature set. Licensing details belong on the website; the Community Edition remains the free way to evaluate and use the core product.
 
 ## See the real desktop workflow
 
