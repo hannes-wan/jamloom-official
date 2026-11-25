@@ -1,7 +1,7 @@
 # JamLoom
 
 [![Community Edition: Free](https://img.shields.io/badge/Community_Edition-Free-16a34a?style=for-the-badge)](https://hannes-software.com/jamloom/download/)
-[![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/jamloom/download/) [![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/jamloom/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/jamloom/)
+[![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/jamloom/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/jamloom/)
 
 > Turn a chord progression into a band you can practice with.
 
@@ -26,7 +26,6 @@ Checksums, installation notes, and the complete platform matrix live on the [off
 
 ## System requirements
 
-- **Windows:** Windows 10 or Windows 11 on x64.
 - **Linux:** a mainstream x64 distribution with glibc 2.35 or newer, such as Ubuntu 22.04+, Debian 12+, Fedora, or openSUSE (AppImage, DEB, and RPM packages).
 - **Disk space:** a few hundred megabytes free for the application and its bundled resources.
 
@@ -134,35 +133,42 @@ JamLoom is a desktop workflow. Your working files stay on the machine unless you
 <details>
 <summary><strong>Can JamLoom make a backing track from my chords?</strong></summary>
 
-Yes. Enter chord symbols in the chart, arrange the sections, and choose a band style. The bass, drums and guitar follow the chart.
+Yes. Enter chord symbols in the chart, organize song sections, and pick a band style. JamLoom generates synchronized bass, drums, and guitar accompaniment that follows every chord change.
 
 </details>
 
 <details>
-<summary><strong>Can I use the accompaniment without an internet connection?</strong></summary>
+<summary><strong>Can I use JamLoom completely offline?</strong></summary>
 
-Chart editing, the bundled practice library, generation and playback run locally. The product does not upload your chart to produce the backing audio.
-
-</details>
-
-<details>
-<summary><strong>Can I loop a section and mute the backing guitar?</strong></summary>
-
-Select a section, enable Loop and lower the guitar fader. Bass and drums have separate faders, so you can leave those parts audible while you play.
+Yes. Chart editing, the bundled 648-song practice library, band accompaniment generation, playback, and MIDI/WAV/PDF export all run 100% locally with no account or cloud upload.
 
 </details>
 
 <details>
-<summary><strong>What can I export for a DAW or rehearsal?</strong></summary>
+<summary><strong>Can I loop a section and mute the backing guitar or bass?</strong></summary>
 
-Use Type-1 MIDI to edit notes, WAV to share the rendered backing, or PDF to print the chord chart. You can download paired MIDI and PDF samples from this page.
+Yes. Select any section or bar range, enable Loop, and pull down the guitar, bass, or drum fader independently so you can practice your own instrument against the rest of the rhythm section.
 
 </details>
 
 <details>
-<summary><strong>Which systems have a public JamLoom installer?</strong></summary>
+<summary><strong>What formats can I export for a DAW or rehearsal?</strong></summary>
 
-Download the unsigned Windows x64 setup (.exe) on Windows 10 or later. For Linux x64, use the AppImage, DEB or RPM. The download page lists SHA-256 for each file.
+Export Type-1 multi-track MIDI to edit individual bass, drum, and guitar parts in your DAW, WAV audio to share rendered backing mixes, or clean PDF chord charts to print for band rehearsal.
+
+</details>
+
+<details>
+<summary><strong>Which platforms and installers are available for JamLoom?</strong></summary>
+
+On Windows 10 or later (x64), download the official Windows x64 installer (.exe) directly from the download page or install JamLoom via Microsoft Store. On Linux x64, choose AppImage, DEB, or RPM. Every direct package lists its SHA-256 checksum.
+
+</details>
+
+<details>
+<summary><strong>Does JamLoom include a built-in practice song library?</strong></summary>
+
+Yes. Every JamLoom installation ships with a 648-session offline practice library covering jazz standards, blues progressions, pop/rock grooves, and modal vamps so you can start playing immediately.
 
 </details>
 
