@@ -13,6 +13,16 @@ Build an editable song from a progression. Hear bass, drums and guitar follow th
 
 [Download Community Edition](https://hannes-software.com/jamloom/download/) · [Product guide](https://hannes-software.com/jamloom/) · [Help](https://hannes-software.com/jamloom/help/) · [Report a bug](https://github.com/hannes-wan/jamloom-official/issues/new?template=bug_report.yml)
 
+<!-- HANNES_STUDIO_HERO_START -->
+### Hear & See It Live — Zero Subscription, 100% Offline
+
+**Type 4 chords and get an instant offline practice band — mute any stem, shift keys, and export WAV/MIDI.**
+
+[![Watch Interactive Audio A/B Demo](https://img.shields.io/badge/▶_Hear_Live_Audio_A%2FB-Watch_Walkthrough-2563eb?style=for-the-badge)](https://hannes-software.com/watch/jamloom/?utm_source=github&utm_medium=readme&utm_campaign=jamloom-hero) [![YouTube Short](https://img.shields.io/badge/YouTube-10s_Ear_Test-dc2626?style=for-the-badge&logo=youtube)](https://hannes-software.com/watch/jamloom/)
+
+[![jamloom desktop workbench](https://hannes-software.com/assets/jamloom/screenshots/two-section-backing-chart-01.webp)](https://hannes-software.com/watch/jamloom/?utm_source=github&utm_medium=readme&utm_campaign=jamloom-hero)
+<!-- HANNES_STUDIO_HERO_END -->
+
 ## Download JamLoom 0.1.2
 
 | Platform | Package | Use it when |
